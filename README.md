@@ -22,7 +22,7 @@ Fine-tuned BERT model for binary sentiment classification (Positive/Negative) on
 - Matplotlib / Seaborn
 
 ## 🚀 How to Run
-1. Open `sentiment_analysis_bert.ipynb` in Google Colab or Jupyter
+1. Open `sentiment_analysis_bert.ipynb` in Google Colab
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run all cells in order
 
